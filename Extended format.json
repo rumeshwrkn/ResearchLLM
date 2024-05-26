@@ -1,0 +1,69 @@
+[
+  {
+    "originalText": "The parties hereto covenant and agree that they shall indemnify and hold harmless each other from any and all claims, liabilities, damages, and expenses arising out of or related to the performance of this agreement.",
+    "simplifiedText": "The parties agree to protect each other from any claims, damages, or expenses related to carrying out this agreement.",
+    "annotations": [ 
+      {
+        "text": "parties hereto",
+        "concept": "ContractingParty",
+        "simplified": "parties"
+      },
+      {
+        "text": "covenant and agree",
+        "concept": "ContractualObligation",
+        "simplified": "agree"
+      },
+      {
+        "text": "indemnify and hold harmless",
+        "concept": "Indemnification",
+        "simplified": "protect"
+      },
+      {
+        "text": "claims, liabilities, damages, and expenses",
+        "concept": "LegalClaim",
+        "simplified": "claims, damages, or expenses"
+      },
+      {
+        "text": "performance of this agreement",
+        "concept": "ContractExecution",
+        "simplified": "carrying out this agreement"
+      }
+    ]
+  },
+  {
+    "originalText": "The licensor hereby grants to the licensee a non-exclusive, non-transferable, and revocable license to use the intellectual property solely for the purposes set forth in this agreement and in accordance with the terms and conditions herein.",
+    "simplifiedText": "The licensor gives the licensee a non-exclusive, non-transferable, and revocable license to use the intellectual property only for the purposes stated in this agreement and following the terms and conditions.",
+    "annotations": [
+      {
+        "text": "licensor",
+        "concept": "LicenseGrantor",
+        "simplified": "licensor"
+      },
+      {
+        "text": "licensee",
+        "concept": "LicenseRecipient",
+        "simplified": "licensee"
+      },
+      {
+        "text": "non-exclusive, non-transferable, and revocable license",
+        "concept": "LicenseType",
+        "simplified": "non-exclusive, non-transferable, and revocable license"
+      },
+      {
+        "text": "intellectual property",
+        "concept": "IntellectualProperty",
+        "simplified": "intellectual property"
+      },
+      {
+        "text": "purposes set forth in this agreement",
+        "concept": "LicenseScope",
+        "simplified": "purposes stated in this agreement"
+      },
+      {
+        "text": "terms and conditions herein",
+        "concept": "ContractTerms",
+        "simplified": "terms and conditions"
+      }
+    ]
+  }
+]
